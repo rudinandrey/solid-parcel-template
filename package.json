@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "babel-preset-solid": "^1.5.7",
+    "solid-js": "^1.5.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
+    "parcel": "^2.7.0"
+  },
+  "name": "solid2",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+	"build": "parcel build ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
